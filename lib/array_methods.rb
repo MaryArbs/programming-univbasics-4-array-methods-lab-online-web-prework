@@ -10,7 +10,9 @@ p sorted_array
 end
 
 def using_reverse(array)
-
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.reverse
+p array.reverse
 end
 
 def using_first(array)
